@@ -23,3 +23,5 @@ git submodule update --init --recursive
 4. Compile SoT-Hook in 'Release' mode
 
 
+![Screenshot 2022-10-22 181259](https://user-images.githubusercontent.com/104174826/197364215-93c7ee61-cad0-43f2-9ed5-06fc6f2fbe05.png)
+![Screenshot 2022-10-22 181249](https://user-images.githubusercontent.com/104174826/197364219-115b755b-20fe-46f6-b7c2-b7c9b6b9a4ab.png)
